@@ -1,14 +1,24 @@
-# Getting Started with Create React App
+# Getting Started with News App
+
+## Project Details
+
+### A website which fetches real time news headlines from varied number of news websites. \
+News on the basis of varied genres like general, business, entertainment, health, science, \
+and technology can be filtered.
+
+### The frontend has been developed with the help of React JS and styled by CSS. \
+API is used in backend for data fetching. Javascript has been used for logic building.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, use command
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
