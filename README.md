@@ -2,11 +2,11 @@
 
 ## Project Details
 
-### A website which fetches real time news headlines from varied number of news websites. \
+A website which fetches real time news headlines from varied number of news websites. \
 News on the basis of varied genres like general, business, entertainment, health, science, \
 and technology can be filtered.
 
-### The frontend has been developed with the help of React JS and styled by CSS. \
+The frontend has been developed with the help of React JS and styled by CSS. \
 API is used in backend for data fetching. Javascript has been used for logic building.
 
 
